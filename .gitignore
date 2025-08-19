@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+*.env
+
+# System files
+.DS_Store
+
+# Local database or JSON (optional if you don’t want to share data)
+*.json
